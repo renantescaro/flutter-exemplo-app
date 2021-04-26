@@ -4,6 +4,12 @@ void main() {
   runApp(MyApp());
 }
 
+/* 
+  StatelessWidget são widgets SEM o controle de estado, ou seja:
+  - Estático
+  - Não possibilita alterações dinâmicas
+  - Utilizado para criar estruturas como menus etc, elementos não dinamicos
+*/
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -12,11 +18,16 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'Exemplo de tela inicial'),
     );
   }
 }
 
+/*
+  StatefulWidget são widgets COM o controle de estado, ou seja:
+  - Mutáveis
+  - Usados apenas quanto existe a necessidade de alterar informações da tela
+*/
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
   final String title;
@@ -26,11 +37,11 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+  int _contador = 0;
 
-  void _incrementCounter() {
+  void _incrementarContador() {
     setState(() {
-      _counter++;
+      _contador++;
     });
   }
 
@@ -45,18 +56,18 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You have pushed the button this many times:',
+              'Quantidade de vezes que o botão foi pressionado: ',
             ),
             Text(
-              '$_counter',
+              '$_contador',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
+        onPressed: _incrementarContador,
+        tooltip: 'Incrementar',
         child: Icon(Icons.add),
       ),
     );
