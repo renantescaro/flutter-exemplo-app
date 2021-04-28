@@ -36,24 +36,30 @@ class MyHomePage extends StatefulWidget {
   _MyHomePageState createState() => _MyHomePageState();
 }
 
+// Classe responsável por gerenciar os estados do StatefulWidget
 class _MyHomePageState extends State<MyHomePage> {
   int _contador = 0;
 
   void _incrementarContador() {
+    // método responsável por setar as alterações de status
     setState(() {
       _contador++;
     });
   }
 
+  // Cria widget
   @override
   Widget build(BuildContext context) {
+    // Scaffold é a estrutura básica, que permite o appBar
     return Scaffold(
+      // appBar e body são atributos passados na inicialização da classe Scaffold
       appBar: AppBar(
         title: Text(widget.title),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
+          // children é um atributo do tipo lista de widgets
           children: <Widget>[
             Text(
               'Quantidade de vezes que o botão foi pressionado: ',
