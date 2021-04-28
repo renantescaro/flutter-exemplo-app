@@ -8,7 +8,7 @@ void main() {
   StatelessWidget são widgets SEM o controle de estado, ou seja:
   - Estático
   - Não possibilita alterações dinâmicas
-  - Utilizado para criar estruturas como menus etc, elementos não dinamicos
+  - Utilizado para criar estruturas como menus etc, elementos não dinâmicos
 */
 class MyApp extends StatelessWidget {
   @override
