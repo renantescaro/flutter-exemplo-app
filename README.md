@@ -1,8 +1,8 @@
 <h2>O que é Flutter?</h2>
 <ul>
-* Framework multiplataforma da Google
-* Compila para nativo: Android, IOS, Web, Windows, Linux, MacOS
-* Em produção roda pela maquina virtual do Flutter
+<li>Framework multiplataforma da Google</li>
+<li>Compila para nativo: Android, IOS, Web, Windows, Linux, MacOS</li>
+<li>Em produção roda pela maquina virtual do Flutter</li>
 </ul>
 <br><br>
 
