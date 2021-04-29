@@ -1,21 +1,32 @@
-# O que é Flutter?
+<h2>O que é Flutter?</h2>
+<ul>
 * Framework multiplataforma da Google
 * Compila para nativo: Android, IOS, Web, Windows, Linux, MacOS
 * Em produção roda pela maquina virtual do Flutter
+</ul>
 <br><br>
-# Como funciona?
-* Desenha os componentes em um canvas
-* Simula Cupertino (iPhone) e Material Designer (Android)
-* Busca sempre 60fps
-* Utiliza a linguagem Dart
+
+<h2>Como funciona?</h2>
+<ul>
+<li>Desenha os componentes em um canvas</li>
+<li>Simula Cupertino (iPhone) e Material Designer (Android)</li>
+<li>Busca sempre 60fps</li>
+<li>Utiliza a linguagem Dart</li>
+</ul>
+  
 <br><br>
-# Dart?
-* Surgiu pra concorrer com o JavaScript
-* 1° China e 2° Brasil
+<h2>Dart?</h2>
+<ul>
+<li>Surgiu pra concorrer com o JavaScript</li>
+<li>1° China e 2° Brasil</li>
+</ul>
+
 <br><br>
-# Quem usa Flutter?
-* no mundo: Stadia, Alibaba, The New York Times, Ebay, Google ADS
-* no Brasil: Nubank, Globo, iFood
+<h2>Quem usa Flutter?</h2>
+<ul>
+<li>no mundo: Stadia, Alibaba, The New York Times, Ebay, Google ADS</li>
+<li>no Brasil: Nubank, Globo, iFood</li>
+</ul>
 
 <br><br>
 * Criar projeto: flutter create exemplo_app
