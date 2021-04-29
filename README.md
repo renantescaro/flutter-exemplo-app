@@ -59,7 +59,7 @@
 
 <h2>Código Dart no Flutter</h2>
 <div style="display: flex;">
-    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/codigo1.png'>
+    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/tela_inicial.png'>
     <ul>
         <li></li>
         <li></li>
