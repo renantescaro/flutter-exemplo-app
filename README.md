@@ -68,8 +68,8 @@
 
 <h2>Como começar a usar?</h2>
 <div style="display: flex;">
-    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/tela_inicial.png'>
-    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/tela_inicial.png'>
+    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/extensions1.png'>
+    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/extensions2.png'>
     <h3>Extensões no VS Code:</h3>
     <ul>
         <li>dart-code.dart-code</li>
