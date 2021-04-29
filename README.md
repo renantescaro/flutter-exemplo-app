@@ -37,7 +37,7 @@
 <h2>Comunidade</h2>
 <div style="display: flex;">
     <img style="height: 118px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/telegram1.png'>
-    <img style="height: 118px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/telegram2.png'>
+    <img style="height: 120px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/telegram2.png'>
     <img style="height: 166px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/youtube.png'>
     <ul>
         <li>Grupos no Telegram</li>
