@@ -26,7 +26,7 @@
 <h2>Dart?</h2>
 <div style="display: flex;">
     <img style="height: 300px;" 
-    src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/logo.jpg'>
+    src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/codigo1.png'>
     <ul>
         <li>Surgiu pra concorrer com o JavaScript</li>
         <li>1° China e 2° Brasil</li>
