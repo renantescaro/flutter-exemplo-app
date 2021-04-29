@@ -59,7 +59,9 @@
 
 <h2>Código Dart no Flutter</h2>
 <div style="display: flex;">
-    * Estrutura inicial: [lib\main.dart](lib/main.dart)
+    <ul>
+        <li>Estrutura inicial: <a href='lib/main.dart'>lib\main.dart</a></li>
+    </ul>
     <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/tela_inicial.png'>
 </div>
 <br><br>
