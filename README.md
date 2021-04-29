@@ -68,6 +68,10 @@
 
 <h2>Como começar a usar?</h2>
 <div style="display: flex;">
+    <h3>Instalar Flutter</h3>
+    <ul>
+        <li>https://flutter.dev/docs/get-started/install</li>
+    </ul>
     <h3>Extensões no VS Code:</h3>
     <ul>
         <li>dart-code.dart-code</li>
