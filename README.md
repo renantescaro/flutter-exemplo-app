@@ -15,7 +15,7 @@
     <img style="height: 300px;" 
     src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/paint.png'>
     <ul>
-        <li>Desenha os componentes em um canvas</li>
+        <li>Desenha os componentes em um canvas ( Plano Cartesiano )</li>
         <li>Simula Cupertino (iPhone) e Material Designer (Android)</li>
         <li>Busca sempre 60fps</li>
         <li>Utiliza a linguagem Dart</li>
