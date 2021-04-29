@@ -36,7 +36,7 @@
 
 <h2>Quem usa Flutter?</h2>
 <div style="display: flex;">
-    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/pergunta.png'>
+    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/pergunta.jpg'>
     <ul>
         <li>no mundo: Stadia, Alibaba, The New York Times, Ebay, Google ADS</li>
         <li>no Brasil: Nubank, Globo, iFood</li>
