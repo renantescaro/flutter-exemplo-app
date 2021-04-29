@@ -1,4 +1,7 @@
 <h2>O que é Flutter?</h2>
+<div>
+</div>
+<img src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/tela_inicial.png'>
 <ul>
 <li>Framework multiplataforma da Google</li>
 <li>Compila para nativo: Android, IOS, Web, Windows, Linux, MacOS</li>
