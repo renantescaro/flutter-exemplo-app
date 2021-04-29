@@ -57,6 +57,16 @@
 </div>
 <br><br>
 
+<h2>Código Dart no Flutter</h2>
+<div style="display: flex;">
+    <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/codigo1.jpg'>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<br><br>
+
 * Criar projeto: flutter create exemplo_app
 * Estrutura inicial: [lib\main.dart](lib/main.dart)
 * AndroidManifest: [android\app\src\main\AndroidManifest.xml](android/app/src/main/AndroidManifest.xml)
