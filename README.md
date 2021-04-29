@@ -34,6 +34,19 @@
 </div>
 <br><br>
 
+<h2>Comunidade</h2>
+<div style="display: flex;">
+    <img style="height: 118px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/telegram1.png'>
+    <img style="height: 118px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/telegram2.png'>
+    <img style="height: 166px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/youtube.png'>
+    <ul>
+        <li>Grupos no Telegram</li>
+        <li>Canais no Youtube</li>
+        <li>Documentação oficial</li>
+    </ul>
+</div>
+<br><br>
+
 <h2>Quem usa Flutter?</h2>
 <div style="display: flex;">
     <img style="height: 300px;" src='https://raw.githubusercontent.com/renantescaro/flutter-exemplo-app/master/_docs/pergunta.png'>
